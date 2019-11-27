@@ -14,6 +14,8 @@
   "dependencies": {
     "@nmq/q": "^1.0.3",
     "express": "^4.16.4",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.2.0",
+    "eslint": "^6.5.1",
+    "lint": "^0.7.0"
   }
 }
